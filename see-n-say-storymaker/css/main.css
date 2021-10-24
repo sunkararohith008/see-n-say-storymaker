@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* Assignment 1 | COMP1073 Client-Side JavaScript */
+
+/*Keeping the whole content in centre*/
+.justify-content-center{
+  margin-top: 100px;
+}
+
+/*Heading*/
+h1{
+  text-align: center;
+  font-size: 100px;
+  color: red;
+  font-weight: normal;
+  border-bottom: 1px solid #b4dc0f;
+  padding-bottom: 15px;
+  margin-bottom: 15px;
+  margin-top: 25px;
+}
